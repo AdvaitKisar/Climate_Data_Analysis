@@ -27,7 +27,7 @@ The parameters plotted using the available data are as follows:-
 10. Hourly Wind Speed
 
 ## Plots
-The plots or heatmaps for the ten parameters are included in the 'Plots' directory. An example of the heatmap is shown below:-
+The plots or heatmaps for the ten parameters are included in the 'Plots' directory. For example, the heatmap of Hourly Sea Level Pressure is shown below:-
 ![Hourly Sea Level Pressure Heatmap for Jan](https://github.com/AdvaitKisar/IITM_BDL_Climate_Data_Analysis/assets/85425955/1a924297-abf7-445f-bb4c-dcce1fa75fd6)
 It can be observed that the sea level pressure in the coastal regions is lower as compared to the interiors of continents. Such observations can be studied using all plots.
 
