@@ -28,4 +28,5 @@ The parameters plotted using the available data are as follows:-
 
 ## Plots
 The plots or heatmaps for the ten parameters are included in the 'Plots' directory. An example of the heatmap is shown below:-
-![Alt text]([image link](https://github.com/AdvaitKisar/IITM_BDL_Climate_Data_Analysis/blob/main/Plots/Hourly%20Altimeter%20Setting/01%20Hourly%20Altimeter%20Setting%20Heatmap%20for%20Jan.png))
+![Hourly Altimeter Setting Heatmap for Jan](https://github.com/AdvaitKisar/IITM_BDL_Climate_Data_Analysis/assets/85425955/753b5ede-786f-4385-9206-17d0ab050dca)
+
