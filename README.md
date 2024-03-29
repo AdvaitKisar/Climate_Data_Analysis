@@ -12,7 +12,7 @@ The steps while executing this assignment are as follows:-
 4. After unzipping, the original data has to be refined using the _refining_archive_ class' function in `DAG_task_2_analytics_pipeline.py`. In simple words, it processes each year and location's file and extracts only the required data and fixes the mistyped characters, incompatible datatypes across rows, etc easing the further processing.
 5. Once the locationwise data files were generated after refining, the monthly averages for all the ten parameters were calculated and saved locationwise into CSV files. This was performed using the _monthly_average_calculator_ class in `DAG_task_2_analytics_pipeline.py`.
 6. The final data for all ten parameters was stored in CSV files with each of them consisting of station numbers, latitude, longitude, and the 12 columns containing their monthly averages for given parameter. This was executed using the _final_data_generator_ class in `DAG_task_2_analytics_pipeline.py`.
-7. The final step is to plot the data in the form of heatmaps using geopandas.
+7. The final step is to plot the data in the form of heatmaps using geopandas. This has been implemented using the _plot_generator_ class in `DAG_task_2_analytics_pipeline.py`.
 8. Finally, an animated video is to be made which is optional. This can be either done programmatically or using a software. This was done using Microsoft Clipchamp.
 
 ## Parameters
