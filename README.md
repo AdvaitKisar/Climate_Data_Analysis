@@ -28,5 +28,14 @@ The parameters plotted using the available data are as follows:-
 
 ## Plots
 The plots or heatmaps for the ten parameters are included in the 'Plots' directory. An example of the heatmap is shown below:-
-![Hourly Altimeter Setting Heatmap for Jan](https://github.com/AdvaitKisar/IITM_BDL_Climate_Data_Analysis/assets/85425955/753b5ede-786f-4385-9206-17d0ab050dca)
+![Hourly Sea Level Pressure Heatmap for Jan](https://github.com/AdvaitKisar/IITM_BDL_Climate_Data_Analysis/assets/85425955/1a924297-abf7-445f-bb4c-dcce1fa75fd6)
+It can be observed that the sea level pressure in the coastal regions is lower as compared to the interiors of continents. Such observations can be studied using all plots.
 
+## Animations
+The animation for the Sea Level Pressure is plotted as shown below:-
+
+https://github.com/AdvaitKisar/IITM_BDL_Climate_Data_Analysis/assets/85425955/065361ef-3853-4420-9e34-37ee400bd423
+
+The animations help us to identify the global patterns which can help in understanding the global climate in much more detailed manner.
+
+Do check out the plots in the 'Plots' directory and animations in the 'Animations' directory.
