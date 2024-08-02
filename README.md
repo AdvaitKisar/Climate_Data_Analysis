@@ -1,4 +1,4 @@
-# IITM_BDL_Climate_Data_Analysis
+# Climate_Data_Analysis
 This is a course project from the course CS5830: Big Data Laboratory offered at IIT Madras.
 
 ## Aim
