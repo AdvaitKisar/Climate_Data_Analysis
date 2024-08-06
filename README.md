@@ -1,4 +1,4 @@
-# Climate_Data_Analysi
+# Climate_Data_Analysis
 
 ## Aim
 This aim of this project is to create a pipeline to extract the Climate Data from [NCEI](https://www.ncei.noaa.gov/) website and find the monthly averages of different parameters across the globe and create plots to visualize this data.
